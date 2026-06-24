@@ -18,14 +18,13 @@ type.
   avg ₦522M).
 - Sale listings average 34x higher than rental listings.
 
-Full findings: [`findings/findings_and_recommendations.md`](findings/findings_and_recommendations.md)
+Full findings: [`FINDINGS/findings_and_recommendations.md`](findings/findings_and_recommendations.md)
 
 ## Dashboard
 
-![Average price by neighbourhood](Abuja-housing-market-analysis/DASHBOARD
-/chart_neighbourhood_prices.png)
+![Average price by neighbourhood](DASHBOARD/chart_neighbourhood_prices.png)
 
-![Price band distribution](dashboard/chart_price_bands)
+![Price band distribution](DASHBOARD/chart_price_bands.png)
 
 ## Repository Structure
 - `data/` — raw and processed datasets
