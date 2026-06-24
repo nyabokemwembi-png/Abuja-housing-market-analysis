@@ -20,6 +20,12 @@ type.
 
 Full findings: [`findings/findings_and_recommendations.md`](findings/findings_and_recommendations.md)
 
+## Dashboard
+
+![Average price by neighbourhood](dashboard/chart_neighbourhood_prices.png)
+
+![Price band distribution](dashboard/chart_price_bands.png)
+
 ## Repository Structure
 - `data/` — raw and processed datasets
 - `sql/` — all analysis queries with comments
