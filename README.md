@@ -18,7 +18,7 @@ type.
   avg ₦522M).
 - Sale listings average 34x higher than rental listings.
 
-Full findings: [`FINDINGS/findings_and_recommendations.md`](findings/findings_and_recommendations.md)
+Full findings: [`FINDINGS/findings_and_recommendations.md`](FINDINGS/findings_and_recommendations.md)
 
 ## Dashboard
 
