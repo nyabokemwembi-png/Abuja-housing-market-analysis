@@ -22,7 +22,8 @@ Full findings: [`findings/findings_and_recommendations.md`](findings/findings_an
 
 ## Dashboard
 
-![Average price by neighbourhood](dashboard/chart_neighbourhood_prices)
+![Average price by neighbourhood](Abuja-housing-market-analysis/DASHBOARD
+/chart_neighbourhood_prices.png)
 
 ![Price band distribution](dashboard/chart_price_bands)
 
